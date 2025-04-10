@@ -1,7 +1,9 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" alt="Banner" style="width: 100%; height: 20%;">
 <h1 align="center">Hi 👋, I'm Khukan</h1>
 <h3 align="center">A Passionate Flutter Developer From Bangladesh</h3>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" data-target="animated-image.originalImage" alt="Animated GIF">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" align="right" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
 
