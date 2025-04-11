@@ -5,11 +5,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" align="right" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khukanahmed" alt="khukanahmed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 
@@ -18,6 +13,12 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1YnBwfMdPVGchukUM8lJtlgIl2vzg3XKt](https://drive.google.com/drive/folders/1YnBwfMdPVGchukUM8lJtlgIl2vzg3XKt)
 
 - ⚡ Fun fact **I Think I am funny**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khukanahmed" alt="khukanahmed" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
