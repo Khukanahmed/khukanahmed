@@ -5,7 +5,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" align="right" />
 </p>
 
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
+ 
 - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Flutter, Android**
@@ -14,7 +15,7 @@
 
 - ⚡ Fun fact **I Think I am funny**
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khukanahmed" alt="khukanahmed" /></a> </p>
 
