@@ -6,6 +6,12 @@
 </p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
+
+ https:<p align="left">
+<a href="https://wakatime.com/@khukanahmed">
+<img src="https://wakatime.com/badge/user/294524e8-d5b9-4f7a-847e-a08b37065282.svg" alt="Coding Time" />
+</a>
+</p>
  
 - 🌱 I’m currently learning **Backend**
 
