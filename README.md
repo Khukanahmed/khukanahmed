@@ -8,8 +8,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khukanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khukanahmed" /> </p>
 
 <p align="left">
-<a href="https://wakatime.com/@7f791566-d24c-4f29-b7ed-8ee49dd650ba">
-<img src="https://wakatime.com/badge/user/7f791566-d24c-4f29-b7ed-8ee49dd650ba.svg" alt="Coding Time" />
+<a href="https://wakatime.com/@6f734205-424f-47ee-a7f7-f1ba360cc76f">
+<img src="https://wakatime.com/badge/user/6f734205-424f-47ee-a7f7-f1ba360cc76f.svg" alt="Coding Time" />
 </a>
 </p>
  
